@@ -1,0 +1,25 @@
+DKIM-Signature: v=1; a=rsa-sha256; d=yopmail.com; s=dkim; c=relaxed/relaxed;
+	q=dns/txt; i=@yopmail.com; t=1776407797;
+	h=from:subject:date:message-id:to:content-type:mime-version;
+	bh=KVXJWgi/K+aN319T6AATqRsMnMowg37/4mwEp6jlLAo=;
+	b=hCxu0q0Qc1zsaABjSl/p4oXG1YkJHTdwRct27p8EfAWDUXYfLHeH6NzPHl33KpA4ZEWo4KY1A8n
+	8ZdKQNwt+JqltdPdL4Imu7SJymWRmVw6dSsXqxKNVGdaoS25LE+Xq2Aae3NgEdcTGYdnmGuYnSjGO
+	/ZFbCiTh/rn9D9MF+jYB92L9M/3T8dBgZ8L8tfepfaZSCB+YwGweV1+84MSm7Bh3DIG7SmukfJBMc
+	nyv+iPTPVOme1NSY4oaBJyxojponfiOnTnhqBZDVR0P2wb5aY310KWLN5D//eQcXcoUmq7g9/atmb
+	YL1KoO6yorjDppSW4KuDsIyioAd1sU0mZ26Q==
+From: 1704@yopmail.com
+Date: Fri, 17 Apr 2026 06:36:37 +0000
+Subject: Re: Approval Request
+Message-Id: <7UOQGTB51TU4.CV85X2V46KEM3@server-ovh>
+To: 170403@yopmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Approved.<div><br><br><div>On Friday, April 17, 2026 12:36:20 PM &lt;170403=
+@yopmail.com&gt; wrote :</div><div style=3D"margin-left:5px;border-left:1px=
+ solid #dbdbdb;padding-left:3px;"><div>Hi&nbsp;</div><div>&nbsp;</div><div>=
+<br></div><div>Kindly provide your approval for user =E2=80=9C170401=E2=80=9D=
+ in XYZ system for the role =E2=80=9CPurchaser=E2=80=9D.</div><div><br></di=
+v><div>&nbsp;</div><div><br></div><div>Regards,</div><div><br></div><div>17=
+0401</div> </div></div>=

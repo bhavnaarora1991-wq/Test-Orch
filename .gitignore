@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini

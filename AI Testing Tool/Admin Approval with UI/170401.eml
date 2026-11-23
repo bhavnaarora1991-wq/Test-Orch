@@ -1,0 +1,38 @@
+DKIM-Signature: v=1; a=rsa-sha256; d=yopmail.com; s=dkim; c=relaxed/relaxed;
+	q=dns/txt; i=@yopmail.com; t=1776407509;
+	h=from:subject:date:message-id:to:content-type:mime-version;
+	bh=nQJuP9YF269fJzs1rmGUdWZh3ci9OH4Vz5QC4aoAaQo=;
+	b=RHPcvecbun2vwA+zKm/UTUNXZVgaflN3wo0Nu5Uzm+J8C9MqtN5UFajKF1PYwR6KhFDiTNlZjoj
+	mqs5CQeqepOXyoxs6v6KVedFCecakCjWDmlq+MbXMtScwY/GHFOwTzcqfBvo/pQTwhAOauTdUQHIK
+	QEstUFIGQaIa9pb0Vixcu8MpR/C8/nNXRCWXaocb+ygrqNmoiVf5o46FwwtDvK2uKBgMYCPzUDZ0M
+	dn+kKTZILQNCgWu6/ZI7EhuMme7vNB5aL3aNEutCIZYyhtlD4do4/4QdzICDh7liuR22k2voak1jU
+	Lct3R4GSocQZvLV1gomZ+xC20G0RblxhhebA==
+From: 1704@yopmail.com
+Date: Fri, 17 Apr 2026 06:31:49 +0000
+Subject: Re: Need Approval
+Message-Id: <OFVHUHA51TU4.GAAMY8CIPQL03@server-ovh>
+To: 170401@yopmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Approved.<div><br></div><div>Regards</div><div>1704<br><br><div>On Friday, =
+April 17, 2026 12:30:44 PM &lt;170401@yopmail.com&gt; wrote :</div><div sty=
+le=3D"margin-left:5px;border-left:1px solid #dbdbdb;padding-left:3px;"><div=
+><span style=3D"color: rgba(36, 36, 36, 1); font-family: Aptos, sans-serif;=
+ font-size: 12pt">Hi Bhawna</span></div><div><p style=3D"color: rgba(36, 36=
+, 36, 1); font-size: 12pt; font-family: Aptos, sans-serif; margin: 0">&nbsp=
+;</p><p style=3D"color: rgba(36, 36, 36, 1); font-size: 12pt; font-family: =
+Aptos, sans-serif; margin: 0">Kindly provide your approval for user =E2=80=9C=
+170401=E2=80=9D in XYZ system for the role =E2=80=9CAdmin=E2=80=9D.</p><p s=
+tyle=3D"color: rgba(36, 36, 36, 1); font-size: 12pt; font-family: Aptos, sa=
+ns-serif; margin: 0">&nbsp;</p><p style=3D"color: rgba(36, 36, 36, 1); font=
+-size: 12pt; font-family: Aptos, sans-serif; margin: 0"><span style=3D"bord=
+er: 0; font-size-adjust: inherit; font-kerning: inherit; font-feature-setti=
+ngs: inherit; font-language-override: inherit; margin: 0; padding: 0; verti=
+cal-align: baseline; color: rgba(0, 0, 0, 1)">Regards,</span><span style=3D=
+"border: 0; font-size-adjust: inherit; font-kerning: inherit; font-feature-=
+settings: inherit; font-language-override: inherit; margin: 0; padding: 0; =
+vertical-align: baseline; color: rgba(0, 0, 0, 1)"></span></p><p style=3D"c=
+olor: rgba(36, 36, 36, 1); font-size: 12pt; font-family: Aptos, sans-serif;=
+ margin: 0">170401</p></div> </div></div>=
